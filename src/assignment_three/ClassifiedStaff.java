@@ -4,13 +4,14 @@ public class ClassifiedStaff extends Employee {
 
 	private double weeklySalary;
 	private String division;
-	//private void
+	//private void aaaaa
 	
 
 	public ClassifiedStaff(String name, String id, String employed, String salary, String div) {
 		super(name, id, employed);	
 		weeklySalary=Double.parseDouble(salary);
 		division=div;
+		//aaaaa
 		
 	}
 	public String toString() {
