@@ -4,6 +4,7 @@ public class ClassifiedStaff extends Employee {
 
 	private double weeklySalary;
 	private String division;
+	//private void
 	
 
 	public ClassifiedStaff(String name, String id, String employed, String salary, String div) {
