@@ -1,4 +1,3 @@
-#Java Assignment One
-This is the first assignment.
-you can find the code inside src folder.
-afdasfhsakjfdhasljkfhnskaljdfhisafhnsaokfn
+# Java Assignment One
+*This is the first assignment.*
+*The code can be found inside src folder.*
