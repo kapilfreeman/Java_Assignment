@@ -29,11 +29,13 @@ public class SortArraylist {
 		num.add(9);
 		
 		//numbers before sorting
+		System.out.println("Number before sorting");
 		for(int number: num) {
 			System.out.println(number);
 		}
 		Collections.sort(num);
 		//numbers after sorting
+		System.out.println("Number after sorting");
 		for(int number:num) {
 			System.out.println(number);
 		}
